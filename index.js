@@ -1,16 +1,2 @@
-{
-  "name": "eloida-api",
-  "version": "1.0.0",
-  "private": true,
-  "type": "module",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.5",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "nodemailer": "^6.9.14"
-  }
-}
+// (opsiyonel) Eğer ileride Cloudflare’a dönersek diye placeholder.
+// Railway için gerekli değil.
